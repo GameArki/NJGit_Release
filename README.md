@@ -5,7 +5,7 @@
 <h1 align="center">NJGit</h1>
 <p align="center"><strong>为游戏开发而生 · 游戏资产可视化</strong></p>
 
-[▶ 观看 NJGit 产品演示](https://github.com/GameArki/NJGit_Release/raw/a29c840aef0180d90d32373f8b890bd6e5349cb8/njgit-demo.mp4)
+https://github.com/user-attachments/assets/ee4b768a-bd7c-48f0-8610-1861a66309e0
 
 ## A1 软件功能
 NJGit 是面向游戏开发者的免费 Git GUI 客户端，把版本历史、代码与游戏资产放在同一张工作台上，让每次改动直观看见。
