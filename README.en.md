@@ -7,11 +7,9 @@
 <h1 align="center">NJGit</h1>
 <p align="center"><strong>A free Git client built for game development</strong></p>
 <p align="center"><strong>Compare: 3D models · Unity scenes · Web pages (HTML/JS/CSS)</strong></p>
+<p align="center"><a href="https://njgit.utea.fun/en/">Visit the website</a></p>
 
 https://github.com/user-attachments/assets/ee4b768a-bd7c-48f0-8610-1861a66309e0
-
-## Website
-[Visit the website](https://njgit.utea.fun/en/)
 
 ## Roadmap
 - [x] Visual diff

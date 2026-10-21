@@ -7,11 +7,9 @@
 <h1 align="center">NJGit</h1>
 <p align="center"><strong>为游戏开发而生的免费Git客户端</strong></p>
 <p align="center"><strong>可对比：3D模型·Unity场景·网页(html/js/css)</strong></p>
+<p align="center"><a href="https://njgit.utea.fun/">进入官网</a></p>
 
 https://github.com/user-attachments/assets/ee4b768a-bd7c-48f0-8610-1861a66309e0
-
-## 官网
-[进入官网](https://njgit.utea.fun/)
 
 ## 路线图
 - [x] 可视化Diff
