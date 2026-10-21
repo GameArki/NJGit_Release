@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://njgit.utea.fun/brand/njgit.png" alt="NJGit Logo" width="128" height="128">
+  <img src="https://raw.githubusercontent.com/GameArki/NJGit_Release/57c020b4f1ac5baf74dc18673f9e1355f4dd8ae4/logo.png" alt="NJGit Logo" width="128" height="128">
 </p>
 
 <h1 align="center">NJGit</h1>
