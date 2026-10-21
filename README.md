@@ -1,9 +1,11 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GameArki/NJGit_Release/57c020b4f1ac5baf74dc18673f9e1355f4dd8ae4/logo.png" alt="NJGit Logo" width="128" height="128">
+  <img src="https://raw.githubusercontent.com/GameArki/NJGit_Release/a29c840aef0180d90d32373f8b890bd6e5349cb8/logo-hd.png" alt="NJGit Logo" width="128" height="128">
 </p>
 
 <h1 align="center">NJGit</h1>
 <p align="center"><strong>为游戏开发而生 · 游戏资产可视化</strong></p>
+
+<video src="https://github.com/GameArki/NJGit_Release/raw/a29c840aef0180d90d32373f8b890bd6e5349cb8/njgit-demo.mp4" controls="controls" width="100%"></video>
 
 ## A1 软件功能
 NJGit 是面向游戏开发者的免费 Git GUI 客户端，把版本历史、代码与游戏资产放在同一张工作台上，让每次改动直观看见。
@@ -16,8 +18,4 @@ NJGit 是面向游戏开发者的免费 Git GUI 客户端，把版本历史、�
 [访问 NJGit 官网](https://njgit.utea.fun/)
 
 ## A3 最新版下载（latest）
-当前版本：**0.6.0.0** · **Windows x64**
-
-[国内下载](https://njgit-release-cn.oss-cn-shanghai.aliyuncs.com/njgit/releases/0.6.0.0/35b28fed58d20fed89f6b2bba0d56aa65900c0ca12635d73b9889c77f45a900a/NJGit-0.6.0.0-Win_x64.zip) · [海外下载](https://njgit-release-us.oss-us-west-1.aliyuncs.com/njgit/releases/0.6.0.0/35b28fed58d20fed89f6b2bba0d56aa65900c0ca12635d73b9889c77f45a900a/NJGit-0.6.0.0-Win_x64.zip)
-
-安装包由 NJGit 官方 OSS 提供。后续最新版本及各平台下载情况，请访问[官网](https://njgit.utea.fun/)并点击「下载 NJGit」。
+[前往官网下载最新版](https://njgit.utea.fun/)
